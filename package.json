@@ -1,0 +1,12 @@
+{
+  "name": "myauthapp",
+  "version": "1.0.0",
+  "description": "A Auth app completely build in github codespace",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
